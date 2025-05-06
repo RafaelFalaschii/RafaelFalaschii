@@ -51,7 +51,7 @@ Seja bem-vindo ao meu espaço de desenvolvimento. 🚀👨‍💻
       alt="Portfólio" 
       title="Visite meu portfólio" 
       src="https://img.shields.io/badge/Portfólio-Ver%20projetos-%23000000?style=for-the-badge&logo=firefox&logoColor=white&labelColor=000000"
-      style="height: 24px;" 
+      style="height: 23px;" 
     />
   </a>
 </p>
