@@ -70,7 +70,7 @@ Seja bem-vindo ao meu espaço de desenvolvimento. 🚀👨‍💻
 - **Node.js** 🚀
 - **TypeScript** 🔷
 
-### 🤖 Linguagens e Tecnologias conhecida.
+### 🤖 Linguagens e Tecnologias.
 
 <img 
     text-align="left" 
